@@ -5,8 +5,13 @@
 This Streamlit app hooks you up with dope YouTube workout videos, answers fitness questions with a smart chatbot, and tracks your daily exercises with slick charts and stats. Whether you're a gym rat or just starting out, it's your go-to fitness buddy.
 
 ---
+![Image Description](https://user-images.githubusercontent.com/yourusername/filename.png)
 
+
+![1](https://github.com/user-attachments/assets/dffd35d4-4c55-4321-b83c-dc989f35b0b7)
+![3](https://github.com/user-attachments/assets/0db0ab7f-2408-4825-b5c9-01d900407d80)
 ## 🚀 Features
+
 
 ### 🧠 Fitness Helper Chatbot
 - Ask fitness questions like:  
